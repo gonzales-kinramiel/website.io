@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background: #ADF1D2;
+    color: black;
+    text-align: justify;
+  }
+  
+  h1 {
+    text-shadow: 4px 5px 6px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color black;
+  }
+  
+  h2 {
+    text-align: center;
+    color black;
+    text-transform: capitalize;
+  
+  }
